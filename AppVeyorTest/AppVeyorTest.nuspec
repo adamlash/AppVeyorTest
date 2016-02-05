@@ -6,9 +6,9 @@
     <title>AppVeyourTest</title>
     <authors>Skyblade</authors>
     <owners>Skyblade</owners>
-    <licenseUrl></licenseUrl>
-    <projectUrl></projectUrl>
-    <iconUrl></iconUrl>
+    <licenseUrl>test</licenseUrl>
+    <projectUrl>test</projectUrl>
+    <iconUrl>test</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Test description</description>
     <releaseNotes></releaseNotes>

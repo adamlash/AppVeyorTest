@@ -5,14 +5,7 @@
     <version>$version$</version>
     <title>AppVeyourTest</title>
     <authors>Skyblade</authors>
-    <owners>Skyblade</owners>
-    <licenseUrl>test</licenseUrl>
-    <projectUrl>test</projectUrl>
-    <iconUrl>test</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Test description</description>
-    <releaseNotes></releaseNotes>
-    <copyright>Copyright 2016</copyright>
-    <tags></tags>
   </metadata>
 </package>

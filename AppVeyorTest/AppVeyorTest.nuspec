@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Skyblade.AppVeyourTest</id>
-    <version>$version$</version>
+    <version>$version$-beta</version>
     <title>AppVeyourTest</title>
     <authors>Skyblade</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

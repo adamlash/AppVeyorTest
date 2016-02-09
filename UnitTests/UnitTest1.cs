@@ -7,7 +7,7 @@ namespace UnitTests {
     public class UnitTest1 {
         [TestMethod]
         public void TestMethod1() {
-            var expected = "Hello, world!!";
+            var expected = "Hello, world!"; 
             var actual = new TestClass().TestMethod();
             Assert.AreEqual(expected, actual);
         }

@@ -11,5 +11,12 @@ namespace UnitTests {
             var actual = new TestClass().TestMethod();
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void NewLineTest() {
+            var data = @"abc
+def";            
+            Assert.AreEqual("abc\r\ndef", data);
+        }
     }
 }

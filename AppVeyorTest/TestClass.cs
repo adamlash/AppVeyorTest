@@ -7,6 +7,11 @@ namespace AppVeyorTest
 {
     public class TestClass
     {
+        private void MethodWithError() {
+            List<int> list = null;
+            list.Add(1);
+        }
+
         public string TestMethod() {
             return "Hello, world!";
         }

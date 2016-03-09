@@ -8,7 +8,7 @@ namespace AppVeyorTest
     public class TestClass
     {
         private void MethodWithError() {
-            List<int> list = null;
+            List<int> list = new List<int>();
             list.Add(1);
         }
 
